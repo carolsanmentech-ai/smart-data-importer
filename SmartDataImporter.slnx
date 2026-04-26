@@ -1,3 +1,6 @@
 <Solution>
-  <Project Path="SmartDataImporter/SmartDataImporter.csproj" />
+  <Project Path="src/SmartaDataImporter.Domain/SmartDataImporter.Domain.csproj" Id="3147aea1-89cf-4d90-b896-d6549d12ec8c" />
+  <Project Path="src/SmartDataImporter.Application/SmartDataImporter.Application.csproj" Id="7a0cc69d-4bd7-49e5-ba6e-ba399ab01ff7" />
+  <Project Path="src/SmartDataImporter.Infrastructure/SmartDataImporter.Infrastructure.csproj" />
+  <Project Path="src/SmartDataImporter/SmartDataImporter.csproj" />
 </Solution>
